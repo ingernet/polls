@@ -1,0 +1,8 @@
+body {
+    background: white url("https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif") repeat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li a {
+    color: rgb(206, 255, 218);
+}
